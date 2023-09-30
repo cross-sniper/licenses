@@ -12,3 +12,6 @@ Here are the licenses available in this repository:
 
 ## ASI License
 The [ASI License](ASI%20License) requires that the full source code, build scripts, libraries, and other necessary components are included with the shipped binary. For more details, refer to the license file.
+
+## EAL License
+The [EAL License](EAL) states that any software it is present in, is under testing/experimentation/heavy testing, and thus, should be used with care
