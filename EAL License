@@ -1,0 +1,13 @@
+Experimental App License (EAL)
+
+Version 1.0
+
+By using this license, you make clear that:
+
+1. This application/software is in its experimental phase.
+2. It will be eventually licensed under an open-source-first license such as MIT, GPL, ASI, or another compatible license.
+3. The creator of this application/software is not liable for any harm that may occur during the creation or testing of said application.
+
+This license serves as a temporary agreement while the application/software is in the experimental phase. Once it transitions to a more stable state and is formally released under a specific open-source license, users should adhere to the terms of that license.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
